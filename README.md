@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 I like to design stylish and cohesive experiences for users, whilst fun and immersive adventures for players. My interest in how things work drove me into building a range of digital tech; including full-stack websites and software applications, whilst my passion for games has led me to start creating them.
 
