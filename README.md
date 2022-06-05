@@ -1,5 +1,8 @@
 <h2><b>Hi, I'm Dan 👋</b></h2>
-<p>I like to design stylish and cohesive experiences whilst experimenting with new and innovative technology. My interest in how things work drove me into building a range of digital tech; including full-stack websites, software applications, and machine learning implementations.</p>
+
+<p>I love creating minimalist, modern, and cohesive experiences, and enjoy experimenting with new and innovative technology. My interest in how things work has driven me into building a range of digital tech; including full-stack websites, software applications, and machine learning implementations.</p>
+
+<p>I believe that innovation can only truly happen when technology is developed and maintained by a multitude of diverse people, and I therefore strive to partake in and support open-source wherever I can.</p>
 
 <h3><b>Where to Find Me 💬</b></h3>
 <ul>
