@@ -6,7 +6,7 @@
 
 <h3><b>Where to Find Me 💬</b></h3>
 <ul>
-    <li><a href="https://dansmith.tech">My Portfolio Website</a></li>
+    <li><a href="https://dansmith.tech">(Portfolio) Website</a></li>
     <li><a href="https://www.fiverr.com/dansmithtech">Fiverr</a></li>
     <li><a href="https://linkedin.com/in/dan-smith-tech">LinkedIn</a></li>
     <li><a href="https://codepen.io/dan-smith-tech">CodePen</a></li>
