@@ -22,8 +22,8 @@
   <a href="https://shields.io/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4D77CF.svg?logo=numpy&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://shields.io/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  <a href="https://shields.io/"><img alt="Express.js" src="https://img.shields.io/badge/express-404d59.svg?logo=express&logoColor=white"></a>
+  <a href="https://shields.io/"><img alt="Node" src="https://img.shields.io/badge/Node-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href="https://shields.io/"><img alt="Express" src="https://img.shields.io/badge/express-404d59.svg?logo=express&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
