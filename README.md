@@ -37,5 +37,8 @@
   <a href="https://shields.io/"><img alt="Figma" src="https://img.shields.io/badge/Figma-9A54F2.svg?logo=figma&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="Affinity Designer" src="https://img.shields.io/badge/Affinity%20Designer-16A9E7.svg?logo=affinity+designer&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://shields.io/"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?logo=linux&logoColor=white"></a>
+  <a href="https://shields.io/"><img alt="GNOME" src="https://img.shields.io/badge/GNOME-000000.svg?logo=gnome&logoColor=white"></a>
+  <a href="https://shields.io/"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172.svg?logo=fedora&logoColor=white"></a>
   <a href="https://shields.io/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
