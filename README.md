@@ -1,5 +1,5 @@
 <h1>
-  <b>Hi, I'm <a href="https://www.dansmith.tech">Dan</a></b>
+  <b>Hi, I'm <a href="https://www.dansmith.tech">Dan</a>.</b>
 </h1>
 
 <p>
